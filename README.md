@@ -83,15 +83,6 @@ Unit tests are written using standard C++ `assert()` statements for clarity and 
 
 ---
 
-## 💼 Ideal For
-
-This project is ideal for resumes and interviews targeting:
-- SDE / Backend Developer Roles
-- C++ Developer / OOP-focused Profiles
-- Data Structure Proficiency Demonstration
-
----
-
 ## 🧠 Author
 
 - **Mahesh Babu Nettem** – B.Tech Final Year Student  
