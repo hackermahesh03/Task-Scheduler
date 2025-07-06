@@ -20,7 +20,7 @@ A feature-rich console-based Task Scheduler application developed in C++ using O
 - 🔍 **Search Task** by name, tag, or ID
 - 💾 **JSON-Based Persistent Storage** (per user)
 - 🔎 **Input Validation & Edge Case Handling**
-- 🧪 **Unit Tests** with `assert()` covering all core features
+- 🧪 **Unit Tests** with `assert()`  covering all core features
 
 ---
 
