@@ -13,13 +13,13 @@ A feature-rich console-based Task Scheduler application developed in C++ using O
   - Tag (e.g., Work, Study)
   - Deadline (YYYY-MM-DD)
   - Timestamp (auto-generated)
-- 📄 **View Tasks** (with Pagination if >10 tasks)
-- ✅ **Complete Task** (removes highest-priority task)
-- ❌ **Delete Task by ID**
-- 🔁 **Update Task by ID** (skip fields with `.`)
-- 🔍 **Search Task** by name, tag, or ID
-- 💾 **JSON-Based Persistent Storage** (per user)
-- 🔎 **Input Validation & Edge Case Handling**
+-  **View Tasks** (with Pagination if >10 tasks)
+-  **Complete Task** (removes highest-priority task)
+-  **Delete Task by ID**
+-  **Update Task by ID** (skip fields with `.`)
+-  **Search Task** by name, tag, or ID
+-  **JSON-Based Persistent Storage** (per user)
+-  **Input Validation & Edge Case Handling**
 - 🧪 **Unit Tests** with `assert()`  covering all core features
 
 ---
